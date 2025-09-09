@@ -62,12 +62,19 @@ namespace Presentacion
             Console.Clear();
             servicio=new PedidoService();
             List<Pedido> lista = servicio.ObtenerTodas();
-            Console.WriteLine("ID\t|ESTUDIANTE\t|LIBRO\t|FECHA");
-            foreach (var item in lista)
-            {
-                Console.WriteLine($"{item.Id}\t{item.Estudiante}\t{item.Libro}\t{item.Fecha}\t");
+
+            if (lista==null) {
+                Console.WriteLine("No hay pedidos aun");
+                Console.ReadKey();
             }
-            Console.ReadKey();
+            else {
+                Console.WriteLine("ID\t|ESTUDIANTE\t|LIBRO\t|FECHA");
+                foreach (var item in lista)
+                {
+                    Console.WriteLine($"{item.Id}\t{item.Estudiante}\t{item.Libro}\t{item.Fecha}\t");
+                }
+                Console.ReadKey();
+            }
         }
     }
 }
