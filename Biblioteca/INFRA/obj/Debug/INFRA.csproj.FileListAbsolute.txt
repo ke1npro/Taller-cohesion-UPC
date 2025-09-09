@@ -1,0 +1,9 @@
+C:\Nueva carpeta\Biblioteca\INFRA\obj\Debug\INFRA.csproj.AssemblyReference.cache
+C:\Nueva carpeta\Biblioteca\INFRA\obj\Debug\INFRA.csproj.CoreCompileInputs.cache
+C:\Nueva carpeta\Biblioteca\INFRA\bin\Debug\INFRA.dll
+C:\Nueva carpeta\Biblioteca\INFRA\bin\Debug\INFRA.pdb
+C:\Nueva carpeta\Biblioteca\INFRA\bin\Debug\ENTITY.dll
+C:\Nueva carpeta\Biblioteca\INFRA\bin\Debug\ENTITY.pdb
+C:\Nueva carpeta\Biblioteca\INFRA\obj\Debug\INFRA.csproj.Up2Date
+C:\Nueva carpeta\Biblioteca\INFRA\obj\Debug\INFRA.dll
+C:\Nueva carpeta\Biblioteca\INFRA\obj\Debug\INFRA.pdb

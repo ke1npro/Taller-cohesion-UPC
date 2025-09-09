@@ -1,0 +1,6 @@
+C:\Nueva carpeta\Biblioteca\ENTITY\bin\Debug\ENTITY.dll
+C:\Nueva carpeta\Biblioteca\ENTITY\bin\Debug\ENTITY.pdb
+C:\Nueva carpeta\Biblioteca\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Nueva carpeta\Biblioteca\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Nueva carpeta\Biblioteca\ENTITY\obj\Debug\ENTITY.dll
+C:\Nueva carpeta\Biblioteca\ENTITY\obj\Debug\ENTITY.pdb

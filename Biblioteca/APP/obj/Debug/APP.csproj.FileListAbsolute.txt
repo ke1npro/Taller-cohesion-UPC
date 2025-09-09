@@ -1,0 +1,11 @@
+C:\Nueva carpeta\Biblioteca\APP\obj\Debug\APP.csproj.AssemblyReference.cache
+C:\Nueva carpeta\Biblioteca\APP\obj\Debug\APP.csproj.CoreCompileInputs.cache
+C:\Nueva carpeta\Biblioteca\APP\bin\Debug\APP.dll
+C:\Nueva carpeta\Biblioteca\APP\bin\Debug\APP.pdb
+C:\Nueva carpeta\Biblioteca\APP\bin\Debug\ENTITY.dll
+C:\Nueva carpeta\Biblioteca\APP\bin\Debug\INFRA.dll
+C:\Nueva carpeta\Biblioteca\APP\bin\Debug\ENTITY.pdb
+C:\Nueva carpeta\Biblioteca\APP\bin\Debug\INFRA.pdb
+C:\Nueva carpeta\Biblioteca\APP\obj\Debug\APP.csproj.Up2Date
+C:\Nueva carpeta\Biblioteca\APP\obj\Debug\APP.dll
+C:\Nueva carpeta\Biblioteca\APP\obj\Debug\APP.pdb

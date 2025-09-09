@@ -1,0 +1,14 @@
+C:\Nueva carpeta\Biblioteca\Presentacion\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Nueva carpeta\Biblioteca\Presentacion\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Nueva carpeta\Biblioteca\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Nueva carpeta\Biblioteca\Presentacion\bin\Debug\Presentacion.exe
+C:\Nueva carpeta\Biblioteca\Presentacion\bin\Debug\Presentacion.pdb
+C:\Nueva carpeta\Biblioteca\Presentacion\bin\Debug\APP.dll
+C:\Nueva carpeta\Biblioteca\Presentacion\bin\Debug\ENTITY.dll
+C:\Nueva carpeta\Biblioteca\Presentacion\bin\Debug\INFRA.dll
+C:\Nueva carpeta\Biblioteca\Presentacion\bin\Debug\APP.pdb
+C:\Nueva carpeta\Biblioteca\Presentacion\bin\Debug\ENTITY.pdb
+C:\Nueva carpeta\Biblioteca\Presentacion\bin\Debug\INFRA.pdb
+C:\Nueva carpeta\Biblioteca\Presentacion\obj\Debug\GUI.csproj.Up2Date
+C:\Nueva carpeta\Biblioteca\Presentacion\obj\Debug\Presentacion.exe
+C:\Nueva carpeta\Biblioteca\Presentacion\obj\Debug\Presentacion.pdb
